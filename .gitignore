@@ -1,0 +1,29 @@
+# ---- Build output (binaries are published to GitHub Releases only) ----
+dist/
+docs/_masked.png
+
+# ---- .NET / Visual Studio ----
+bin/
+obj/
+.vs/
+packages/
+*.user
+*.suo
+*.pdb
+
+# ---- Compiler leftovers ----
+*.obj
+*.ilk
+*.tlog
+
+# ---- OS / editor ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*
+*.swp
+
+# ---- Logs / temporary files ----
+*.log
+*.tmp
+*.bak

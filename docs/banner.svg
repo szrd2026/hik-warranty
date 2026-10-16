@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="HikWarranty — Hikvision warranty batch checker">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="16" fill="url(#bg)"/>
+  <circle cx="1085" cy="40" r="130" fill="#22c55e" opacity="0.07"/>
+  <circle cx="1160" cy="240" r="100" fill="#38bdf8" opacity="0.07"/>
+
+  <text x="72" y="122" font-family="'Segoe UI','Microsoft YaHei UI','Microsoft YaHei',Arial,sans-serif" font-size="62" font-weight="700" fill="#f8fafc">HikWarranty</text>
+  <rect x="74" y="142" width="130" height="6" rx="3" fill="url(#accent)"/>
+  <text x="72" y="192" font-family="'Segoe UI','Microsoft YaHei UI','Microsoft YaHei',Arial,sans-serif" font-size="25" fill="#94a3b8">Hikvision warranty batch checker · 海康威视维保批量查询</text>
+  <text x="72" y="234" font-family="'Segoe UI','Microsoft YaHei UI','Microsoft YaHei',Arial,sans-serif" font-size="19" fill="#64748b">Windows 10/11 · zero install · 43 KB · GUI + CLI · UTF-8 CSV export</text>
+
+  <g transform="translate(950,80)">
+    <circle cx="75" cy="60" r="72" fill="none" stroke="url(#accent)" stroke-width="7" opacity="0.85"/>
+    <path d="M40 62 L64 86 L114 34" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
